@@ -3,6 +3,7 @@
 [![Twitch](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uandzleonel/)
 
 ![Uanderson GitHub Stats](https://github-readme-stats.vercel.app/api?username=uandzleonel&show_icons=true&theme=dracula&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uandzleonel&layout=compact&langs_count=7&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
